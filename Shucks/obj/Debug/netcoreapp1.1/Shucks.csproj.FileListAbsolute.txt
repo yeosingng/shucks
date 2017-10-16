@@ -1,0 +1,22 @@
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.deps.json
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.runtimeconfig.json
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.runtimeconfig.dev.json
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.dll
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.csprojResolveAssemblyReference.cache
+c:\users\yeo\documents\visual studio 2017\Projects\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.AssemblyInfo.cs
+C:\Users\Yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.pdb
+C:\Users\Yeo\documents\visual studio 2017\Projects\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.dll
+C:\Users\Yeo\documents\visual studio 2017\Projects\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.pdb
+C:\Users\Yeo\documents\visual studio 2017\Projects\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.csproj.CoreCompileInputs.cache
+C:\Users\Yeo\documents\visual studio 2017\Projects\Shucks\Shucks\bin\Debug\netcoreapp1.1\Services\Hangman\Words.txt
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.deps.json
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.runtimeconfig.json
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.runtimeconfig.dev.json
+C:\Users\yeosi\source\repos\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.csprojResolveAssemblyReference.cache
+C:\Users\yeosi\source\repos\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.csproj.CoreCompileInputs.cache
+C:\Users\yeosi\source\repos\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.AssemblyInfo.cs
+C:\Users\yeosi\source\repos\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.dll
+C:\Users\yeosi\source\repos\Shucks\Shucks\obj\Debug\netcoreapp1.1\Shucks.pdb
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Services\Hangman\Words.txt
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.dll
+C:\Users\yeosi\source\repos\Shucks\Shucks\bin\Debug\netcoreapp1.1\Shucks.pdb
