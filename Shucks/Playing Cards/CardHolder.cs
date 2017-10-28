@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Shucks.Playing_Cards
 {
-    class CardHolder
+    public class CardHolder
     {
         private string name;
         private List<Card> hand;
@@ -28,6 +28,21 @@ namespace Shucks.Playing_Cards
         public List<Card> GetHand()
         {
             return hand;
+        }
+
+        public string GetName()
+        {
+            return name;
+        }
+
+        public string HandToString()
+        {
+            string ret = "";
+            foreach (Card card in hand)
+            {
+                ret += card.ToString() + "\n";
+            }
+            return ret;
         }
     }
 }

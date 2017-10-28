@@ -1,10 +1,7 @@
 ﻿using System;
 using Discord.WebSocket;
-using System.Collections.Generic;
-using System.Text;
 using System.Reflection;
 
-using Discord;
 using Discord.Commands;
 using Microsoft.Extensions.DependencyInjection;
 

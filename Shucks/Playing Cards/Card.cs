@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Shucks.Playing_Cards
 {
-    class Card
+    public class Card
     {
         private string suit;
         private string value;
