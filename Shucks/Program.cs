@@ -25,7 +25,7 @@ namespace Shucks
 
             _client.Log += Log;
 
-            string token = "MzM1Njg1NDgyNDc2MjA4MTI5.DEyFHQ.vEpefufL1R1U7j7ucKQOaiMrooQ";
+            string token = "";
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
 
